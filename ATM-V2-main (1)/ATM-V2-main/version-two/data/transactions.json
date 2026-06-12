@@ -1,0 +1,79 @@
+[
+{
+"username": "bob",
+"amount": 50,
+"type": "DEPOSIT",
+"receipt": false,
+"time": "2026-06-08T01:07:07.304424900"
+},
+{
+"username": "kadry",
+"amount": 50,
+"type": "WITHDRAW",
+"receipt": true,
+"time": "2026-06-08T14:56:10.798439"
+},
+{
+"username": "kadry",
+"amount": 20,
+"type": "WITHDRAW",
+"receipt": true,
+"time": "2026-06-08T14:56:27.897399600"
+},
+{
+"username": "kadry",
+"amount": 20,
+"type": "WITHDRAW",
+"receipt": true,
+"time": "2026-06-08T14:56:40.736357"
+},
+{
+"username": "kadry",
+"amount": 20,
+"type": "WITHDRAW",
+"receipt": false,
+"time": "2026-06-08T14:56:58.469696100"
+},
+{
+"username": "kadry",
+"amount": 100,
+"type": "WITHDRAW",
+"receipt": false,
+"time": "2026-06-10T21:01:23.012589600"
+},
+{
+"username": "kadry",
+"amount": 290,
+"type": "WITHDRAW",
+"receipt": false,
+"time": "2026-06-10T21:42:57.472943500"
+},
+{
+"username": "kadry",
+"amount": 300,
+"type": "DEPOSIT",
+"receipt": false,
+"time": "2026-06-10T21:46:07.536927600"
+},
+{
+"username": "kadry",
+"amount": 100,
+"type": "DEPOSIT",
+"receipt": false,
+"time": "2026-06-12T15:15:29.318081300"
+},
+{
+"username": "kadry",
+"amount": 100,
+"type": "WITHDRAW",
+"receipt": true,
+"time": "2026-06-12T15:16:25.000997200"
+},
+{
+"username": "kadry",
+"amount": 50,
+"type": "TRANSFER",
+"receipt": false,
+"time": "2026-06-12T15:16:58.029913"
+}
+]
